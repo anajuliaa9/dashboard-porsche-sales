@@ -80,6 +80,3 @@ Filtro selecionado: **Model Year 2025** e **Pay Method: Wire Transfer**, permiti
 
 ![Dashboard de Vendas Porsche - Filtro aplicado](dashboard-porsche-filtro.png)
 
-## Acesse o Projeto
-
-[**Clique aqui para acessar a Dashboard de Vendas Porsche**](https://anajuliaa9.github.io/dashboard-porsche-sales/)
